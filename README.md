@@ -63,7 +63,8 @@ httpd.serve_forever()
 ## OUTPUT:
 
 # server output:
-![serveroutput](img/server output1.jpg)
+![image](https://user-images.githubusercontent.com/129143499/234750957-85bcf4d7-2887-44f9-b5d5-f53286337239.png)
+
 
 # client output:
 ![cilentoutput](img/webserver.jpg)
