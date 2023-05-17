@@ -67,8 +67,7 @@ httpd.serve_forever()
 
 
 # client output:
-![cilentoutput](img/webserver.jpg)
-
+![2023-05-17](https://github.com/shashinprasad/webserver/assets/129143499/7911a2f8-13a8-46de-ab29-860822bb0a18)
 
 
 
